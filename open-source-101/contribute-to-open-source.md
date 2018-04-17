@@ -31,4 +31,4 @@ Speaker: VM (Vicky) Brasseur
 --* Inspiration
 --* Motivation
 
-[https://archive.org.details
+[Presentation Link] [https://archive.org/details/os101-2018-columbia-whycontribute]
