@@ -1,4 +1,4 @@
-##Conference Notes
+### Conference Notes
 
 This repository that I started on April 16, a day before **OpenSource 101** in Columbia,SC
 
