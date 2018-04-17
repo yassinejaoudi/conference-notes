@@ -1,4 +1,4 @@
-#How JavaScript Became a Legitimate Open Source Enterprise Application Platform
+# How JavaScript Became a Legitimate Open Source Enterprise Application Platform
 Speaker: Mark Hinkle, Excutive Director, Node.ks Foundation
 `email`: mark@nodejs.org
 `twitter`: @mrhinkle
