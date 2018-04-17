@@ -27,35 +27,35 @@ Speaker: Rizchel Dayao, IBM
 * No peer reviews to ensure security and accountability
 * Quality of code was bad (very confusing)
 
-###Carbon Componeents:
+### Carbon Componeents:
 * Contribution from anyone
 * Peer reviews on all contributions
 * Testing
 
-###Now IBM Cloud has:
+### Now IBM Cloud has:
 * A peer review system
 * At least 85% testing coverage
 
-###Benefits OS provides:
+### Benefits OS provides:
 * Cost benefits 
 * Community support
 * Quality Code
 
-###GitHub:
+### GitHub:
 * Code hosting platform for version control and collabortion
 * Uses Git
 * Pull down repo and thats where you contribute 
 
-###Finding a project to contribute:
+### Finding a project to contribute:
 *  Use GitHub Explore
 * Visit sites that have OS projects to contribute to
 
-###Your First Contribution:
+### Your First Contribution:
 * Find something easy (docs, small bugs)
 * Look for specific labels: first timers only, good first issue, low hanging fruit, beginner, easy
 * Things to consider: language, project (something you will like), size
 
-###Now you find a bug and how to fix:
+### Now you find a bug and how to fix:
 * First fork the repo (takes all the code and copy it)
 * Make sure to not work on the master branch
 * Git clone 
@@ -70,7 +70,7 @@ Speaker: Rizchel Dayao, IBM
 * Lets tests run
 * MErge Pull request to Master
 
-###Contributor Common Pitffalls:
+### Contributor Common Pitffalls:
 * Coding standards
 * Git can be tricky
 * Document and comment your code
